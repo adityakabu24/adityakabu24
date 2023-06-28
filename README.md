@@ -1,5 +1,15 @@
 <h1>Hi, I am Aditya! <br/> <a href="https://www.linkedin.com/in/aditya-kabu-a90332220/"> Programmer<a href="https://github.com/adityakabu24">, Fullstack Developer & DevOps Engineer</a>
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AdityaKabu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AdityaKabu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/channel/UC7EN5Vu1G_EfnHeUC78sYXw
+[linkedin]: https://www.linkedin.com/in/aditya-kabu-a90332220/
+
+<!--
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -17,16 +27,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="AdityaKabu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AdityaKabu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[youtube]: https://www.youtube.com/channel/UC7EN5Vu1G_EfnHeUC78sYXw
-[linkedin]: https://www.linkedin.com/in/aditya-kabu-a90332220/
-
-<!--
+  
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
