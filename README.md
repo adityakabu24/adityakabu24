@@ -1,6 +1,4 @@
-<h1>Hi, I am Aditya! <br/> <a href="https://www.linkedin.com/in/aditya-kabu-a90332220/"> Programmer<a href="adityakabu.com">, Fullstack Developer & DevOps Engineer</a>
-
-[Aditya Kabu | Portfolio](adityakabu.com)
+<h1>Hi, I am Aditya! <br/> <a href="https://www.linkedin.com/in/aditya-kabu-a90332220/"> Programmer<a href="https://www.adityakabu.com">, Fullstack Developer & DevOps Engineer</a>
 
 <h2> 🤳 Connect with me:</h2>
 
